@@ -1,0 +1,328 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A visitation of tender love (once more) from the Lord unto Charles the II, King of England, Scotland and Ireland</title>
+            <author>Rigge, Ambrose, 1635?-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70940</idno>
+            <idno type="STC">Wing R1500</idno>
+            <idno type="STC">ESTC R22052</idno>
+            <idno type="EEBO-CITATION">12059065</idno>
+            <idno type="OCLC">ocm 12059065</idno>
+            <idno type="VID">53193</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70940)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53193)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 576:13 or 694:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A visitation of tender love (once more) from the Lord unto Charles the II, King of England, Scotland and Ireland</title>
+                  <author>Rigge, Ambrose, 1635?-1705.</author>
+                  <author>Coale, Josiah, 1632?-1668.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1662]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Ambrose Rigge. Cf. NUC pre-1956.</note>
+                  <note>Two papers: the 1st is signed &amp; dated (p. 4): "This was written the 2d. of the 7th. Mo.--62. A.K." [i.e. A.R. Ambrose Rigge]. The 2d signed &amp; dated at end: "Writen [sic] in New-England, this 25th of the 3d month, 1662. ... Josiah Coale."</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Entry for K1 cancelled in Wing (2nd ed.).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:53193:1"/>
+            <pb n="1" facs="tcp:53193:1"/>
+            <head>A VISITATION OF Tender LOVE (Once more) from the LORD UNTO CHARLES the II. KING OF
+<hi>England, Scotland</hi> and <hi>Ireland.</hi>
+            </head>
+            <div type="section">
+               <p>LEt the conſideration of theſe following Lines deeply ſink into thy heart, for they are
+things of great moment to thee at this day. There is a People within thy Dominions, called
+<hi>QUAKERS,</hi> whom the God of Heaven highly eſteemeth, in whoſe hearts he hath placed his
+ho<g ref="char:EOLhyphen"/>ly Law, according to his promiſe by the mouths of his Pro<g ref="char:EOLhyphen"/>phets, which is (and hath been)
+their School-Maſter and Lead<g ref="char:EOLhyphen"/>er unto Chriſt, according to the teſtimony of <hi>Paul</hi> his
+ſervant. For their obedience to which Law, this people hath under one many and great trials and
+tribulations, both before, and ſince
+<pb n="2" facs="tcp:53193:2"/>
+thy coming into this Nation to Rule as King, which they have patiently born without avenging their
+own Cauſe, till the Lord did ariſe and plead with their Enemies, which he hath done to their
+confuſion and overthrow, even without remedy. And this poor people were never known to provoke
+the worſt of their Enemies to wrath againſt them, unleſs by their ho<g ref="char:EOLhyphen"/>neſt converſation
+before them, coupled with Gods fear and re<g ref="char:EOLhyphen"/>verence, which is of great price in his ſight, though
+not valu<g ref="char:EOLhyphen"/>ed in the ſight of men; for which they have ſuffered deaths often, long and ſore
+impriſonments, and great ſpoile of their goods, ſtoning, ſtocking, whipping, and cruel
+mockings, and much more, which is too tedious to mention, for their due o<g ref="char:EOLhyphen"/>bedience to the Royal Law
+of God, &amp; the weighty Commands of Chriſt; nay, they have been denied the liberty of Thieves
+and Mnrderers, for their Loyalty thereunto, by them who were in Authority beſore thy coming in;
+which God took occaſion againſt to deſtroy with remedileſs miſery., as a juſt reward of
+their ungodly deeds: Then he remembred thee whom he had ſuffered to be oppreſſed by the
+afore-named Task Maſters, and did raiſe thee from a low eſtate, in which eſtate when thou
+wert low, and in the ſence thereof, thou promiſedſt much li<g ref="char:EOLhyphen"/>berty to theſe harmleſs Lambs
+of God's Fold, ſaying, They ſhould not ſuffer for their Religion, ſo long as they did live
+peaceably; and much more, which may be ſeen abroad in pub<g ref="char:EOLhyphen"/>like view: Yet notwithſtanding, their
+ſufferings are much more encreaſe'd under thee, than before, and thou haſt bro<g ref="char:EOLhyphen"/>ken thy Word
+and Promiſes to them, though they have kept faithful and true unto thee, and have not broken the
+peace of the Kingdoms under thee, nor any of thy juſt Laws, but have laboured by all lawful means
+to live a peaceable and quiet life under thee, in all godlineſs and honeſty; yet how great is
+the cry of their oppreſſion in this Nation at this day, from the one end thereof to the other?
+They are appointed as ſheep for the ſlaughter, even while they vvho vvork Wickedneſs are
+ſet up in high eſtimation. All which the righteous God hath regarded, and his ſoul is greatly
+grieved every day; and if theſe things be not ſpeedily amended, he will viſit thee and and
+the whole Nation in his hot diſpleaſure; theſe and ſuch like evils was the overthrovv of
+many great Kings in the days
+<pb n="3" facs="tcp:53193:2"/>
+of old, which when they forgat God and his Cauſe, and op<g ref="char:EOLhyphen"/>preſſed and perſecuted his people,
+then did lie blaſt them in their chieſelt glory, and laid their honor in the duſt.</p>
+               <p>So in all love and tenderneſs of heart conſider what thou haſt done, and art doing, and
+remember thy Covenants wich God and man in thy low eſtate, and let it be in no mans pow<g ref="char:EOLhyphen"/>er
+further to charge thee with the breach of thy Word and Promiſe. Suffer none to be oppreſſed
+for Conſcience-ſake in thy Dominions, that doth not diſturb the peace of the King<g ref="char:EOLhyphen"/>dom, as
+thou wilt anſwer the contrary before the righteous God: This can never be a good ingredient to
+thy future ſecu<g ref="char:EOLhyphen"/>rity with God nor man, neither will God ever bleſs thee, or proſper thy way
+in any thing of this nature; for his people is his portion which he hath called and choſen, and
+wo to all their enemies. He that offends one of them, it were better for him that a Milſtone were
+hanged about his neck, and he in the midſt of the Sea. And if any counſel thee to vex and
+ſcourge the afore-named Lambs, ſuch are thy mortal Enemies; and if thou doſt hearken and obey
+them, 'twil bring ſhame, reproach, confuſion and deſolation unto thy Crown and Dignity.</p>
+               <p>Therefore be wiſe, O King, and recollect thy memory while thou haſt a day and time, and
+conſider thy former Engage<g ref="char:EOLhyphen"/>ments, and alſo thy Father's and Grandfather's Charges laid upon
+thee concerning theſe things, and let Love and Mercy eſtabliſh thy Throne, that thy dayes may
+be prolonged; and be not high-minded nor ſtout-hearted againſt any; that wil ne<g ref="char:EOLhyphen"/>ver draw the
+hearts of thy ſubjects to love thee; and ſo long as thou ſuffer eſt the Wicked to tread
+down the Heritage of God, thou ſhalt never have his countenance upon thee, but his
+diſ<g ref="char:EOLhyphen"/>pleaſure ſhall attend thee in thy moſt ſecret Chamber, and at laſt he will give
+thee up to be a prey to thy Enemies, even as he hath done many before, which rejected his
+Counſel, till his wrath ſealed the truth of it in their boſoms: Oh the Cry of Cruelty and
+Oppreſſion that is every where! What will be the end thereof? None is now eſteemed, but
+ſuch as can run greedily into iniquity, and drink it up as the Ox drinks water. The Nations are
+in a flame, the fire of God's jealouſie is kind<g ref="char:EOLhyphen"/>led in every City and Town, even prepared to burn
+up all his Enemies; and the iniquity of Rulers, Prieſts and People, doth
+<pb n="4" facs="tcp:53193:3"/>
+blow it up day and night, that it cannot long be ſtayed, un<g ref="char:EOLhyphen"/>leſs it be ſpeedily quenched by
+tears of unfeigned repentance, for the hour of Gods Judgement approacheth, and the execu<g ref="char:EOLhyphen"/>tion will
+ſpeedily follow, if not prevented.</p>
+               <p>This in ſhort, I was moved to write unto thee in true love, who am, and have been a ſufferer
+under thee for the Teſtimo<g ref="char:EOLhyphen"/>ny of Jeſus, being no Enemy, nor never was to thee, that thou
+mayeſt not run upon that which will be thy final deſtruction; but if thou doſt reject the day
+of God's viſitation in mercy to thee, he will take thee off in his hot diſpleaſure, So the
+Lord open thy eyes to ſee the things that belong to thy peace, before they be hid from thee.</p>
+               <closer>
+                  <dateline>This was written
+<date>the <hi>2d.</hi> of the <hi>7th.</hi> Mo. ..62.</date>
+                  </dateline>
+                  <signed>This was laid upon me once more to lay before thee with<g ref="char:EOLhyphen"/>out flattering titles, who am one
+of thy ſuffering ſubjects, known by the name of A. K.</signed>
+               </closer>
+            </div>
+            <div type="section">
+               <pb n="5" facs="tcp:53193:3"/>
+               <p>OH King <hi>Charles,</hi> ſtay the hand of perſecution, which is now liſted up againſt
+the people of God (which thing is in thy hand to do (or elſ God will cut thee off, and rend thy
+Kingdom from thee; for the mouth of the Lord of Hoſts hath ſpoken it, even the King of Kings;
+and this is the word of the living God unto thee, to be fullfilled by his own power.</p>
+               <p>Wherefore, oh King, conſider, The ſufferings, and the per<g ref="char:EOLhyphen"/>ſecutions of the people of God,
+is (and hath been) exceeding great ſince thou came to ſit upon the throne of thy Father: And
+many good people (thy peaceable Subjects) have ſuffered the ſpoyling of their goods, and cruel
+torturing; as whippings, baniſhments, yea, and death it ſelf; and theſe things, oh King, have
+been done in thy Dominions, and thou haſt not been acquainted therewith, for oft have the
+ſervants of the Lord laid theſe things before thee, to the end that by thy power theſe cruel
+ſufferings might be removed, and the perſecutors reſtrained: But haſt thou rightly
+conſidered it, or laid it to heart, ſo as to eaſe them throughly of their ſufferings (or
+haſt thou had a ſenſible feeling of the deep afflictions which many of the Lords people have
+undergone) as thou ought, being ſee up as chief ruler over them in theſe nations (I ſpeak
+concerning the deſpiſed people called Quakers.) And ought not oppreſſion to be removed; and
+evil doers terrified; and thoſe that do wel encouraged; But alas, how is juſtice and true
+judgment per<g ref="char:EOLhyphen"/>verted and turned backward, and thoſe that work wickedneſs ſet up; And thoſe
+that depart from iniquity become a prey unto the wicked, and ungodly: And theſe things oh King
+the Lord ſeeth with his inviſible eye which goes through the earth, and his good ſpirit is
+grieved therewith; And thereby he is greatly provoked to wrath: And aſſuredly for this cauſe
+his controverſy is very great, &amp; his jealouſy and fierce indignation is kindled, and burns
+exceeding hot: And really oh King, this I ſay unto thee, that nothing will appeaſe the fierce
+indig<g ref="char:EOLhyphen"/>nation, wrath, and fury of the Almighty, but a true reforma<g ref="char:EOLhyphen"/>tion of theſe things; For that
+is the thing which the Lord requires, and hath long called unto thee for; even from time to time,
+as he did unto thoſe that were in authority before thee; but how did they harden their hearts,
+and refuſe to hear, until their overthrow cam at unawares, which their ſtiff-neckedneſs,
+<pb n="6" facs="tcp:53193:4"/>
+and refuſing to anſwer the requirings of the Lord was the very ground of. Wherefore, oh King,
+conſider how many tender viſitations of love the Lord hath given thee, ſince thou cameſt
+upon the throne, and how many cautions thou haſt had to be<g ref="char:EOLhyphen"/>ware of that great evil, which was the
+cauſe of the ruine and overthrow of them that are gone before thee; For this I teſtfie unto
+thee, that if they had been faithful to the truſt which God committed unto them, thou hadſt
+never com upon the throne to rule as King in theſe Nations; and this is the teſtimony of God
+unto thee: Wherefore believe not, oh King, that God will now juſtifie thee in that which he
+overthrew them for that went before thee, no verily; for our God is no reſpecter of perſons;
+and this I once more and further ſay unto thee, that except thou anſwer his requirings, that
+is, to ſtay the hand of perſecu<g ref="char:EOLhyphen"/>tion, and break the heavy yoke from off the necks of Gods
+people (which they ſuffer for conſcience ſake) and leave their conſciences free in matters
+of worſhip and faith towards him, even as he overthrew them that went before thee, (by his own
+ſecret hand of power) ſo will he overturn thee alſo, and rend thy Kingdom from thee; and then
+ſhalt thou know, that the Moſt High rules in the Kingdomes of men, and giveth them to
+whomſoever he pleaſeth.</p>
+               <p>Wherefore conſider this, oh King, and know, and underſtand that the Decree of the Almighty
+(the King of Kings) is to exalt everlaſting Righteouſneſs, to raign, and Juſtice, and
+Equity, and true Judgment ſhall be ſet up in the Earth; and a full Refor<g ref="char:EOLhyphen"/>mation of all things
+he will have, and not in part only; and this work he hath already begun (though many ſee it not)
+and he doth and will carry it on by his own ſecret hand of power, and none ſhall be able to
+withſtand him, nor to ſtop or hinder him in his way; For the hearts of Kings are in his hand,
+and all Na<g ref="char:EOLhyphen"/>tions before him is but as a drop of a bucket: Therefore let not the King believe, that
+the Lord, who hath brought ſo great things to paſs, which have been ſo evidently ſeen, to
+the glory of his name, will now let his work fall: For verily and aſſuredly he will not, but
+will carry it on by his own ſecret hand of power in deſpite of his ſoes, and will daſh in
+pieces the potſherds of the earth; and all that oppoſe or would withſtand him, they ſhall
+be even as chaff driven of a mighty wind, and the Nations
+<pb n="7" facs="tcp:53193:4"/>
+ſhall know the ſtroak of the hand of the Almighty; and upon ſome it will aſſuredly and
+ſhall certainly fall exceeding heavy; inſomuch, that exceeding faintneſs of heart ſhall
+ſeize and take hold on them, becauſe they have deſpiſed the day of their viſitation, and
+have let it ſlip: Wherefore oh King, this is my Counſel unto thee, let not this the day of thy
+viſitation, which hath been long upon thee, ſlip or paſs over; but in the light of Chriſt
+wait to receive wiſdom from God, that thou mayeſt be inſtrumental for the working of <hi>a
+Reformation</hi> in theſe Nations, by making void, and diſanulling all unjuſt and unrighteous
+cruel Laws, which have been made, as ſnares, thereby to cauſe the juſt to ſuffer,
+eſpecially in this <hi>New-England,</hi> who contrary to thy Order, which thou diſt well in
+ſending amongſt them, do pro<g ref="char:EOLhyphen"/>ceed in their cruel dealings towards us, who are called
+<hi>Quakers;</hi> as finning, priſoning, whipping, and threatning to take away our lives, thereby
+evidently manifeſting their rebellion againſt thee; And one of their Magiſtrates ſaid to a
+Friend of ours in my hearing, as he was peaceably paſſing on the way, that he would lay him
+neck and heels for all the Kings Letter: So if thou take ſom ſpeedy courſ for the repealing
+and making void theſe cruel Lawes by which they exerciſe this cruelty, both in theſe, and all
+other thy Dominions, haply thou may be as <hi>Moſes,</hi> to <hi>ſtand in the gap,</hi> betwixt
+God and thy people, that his wrath and fury may be turned back, and appeaſed, leſt his
+long-ſuffering com to an end, whoſe ſpirit hath not yet ceaſed to ſtrive; Therefore
+encline thine ear, and give attention thereunto, and anſwer the requirings thereof, and leave the
+conſciences of all people free in matter of worſhip and faith towards God, whileſt they live
+peaceably and quietly under thy Dominion, according to thy former Declarations and promiſſes:
+and let them performe the ſame in ſuch a way and manner as they themſelves ſhall be
+per<g ref="char:EOLhyphen"/>ſwaded in their own Conſciences; and let none be compelled to any way or form of worſhip;
+neither let any law be made for any ſuch end; and let not any ſuffer impriſonment, becauſe
+for conſcience ſake they cannot pay to maintain a company of hireling Prieſts, but in theſe
+things let all be left free; &amp; let the evil doer be puniſhed and terrified, and the (now
+wrongfully) oppreſſed go free; for this the Lord requires of thee, and only this is the way to
+appeaſe his wrath, which otherwayes cannot
+<pb n="8" facs="tcp:53193:5" rendition="simple:additions"/>
+he, for the Cries of the oppreſſed have entred into the ears of the Righteous God, and he hath
+regard thereunto, and he will not long endure to ſee the hard uſage of his people, and the
+wrongs done unto his ſervants; eſpecially by that generation of covetous Hirelings, whom the
+Lord God never ſent, but will aſſuredly owerturn them root and branch in one day: oh how have
+they hurried, and laboured to deſtroy, the flock of Chriſt theſe ten years paſt, and how
+have they waſted, and made ſpoil of their goods, and priſoned their bodies until death: Its
+indeed even hard to utter, and ſtill they thirſt after bloud; and the people of God ſuffers
+by them, and are ſtil in bonds &amp; priſons, becauſe for conſcience ſake they cannot put
+into their mouths, nor give them wages that do no work for them: And this great oppreſſion oh
+King the Lord the Lord will have his people eaſed of, and freed from, either one way or another;
+For it hath been long born already, and aſſuredly the long-ſuffering of his ſpirit will
+come to an end; and he will be avenged on the Ad<g ref="char:EOLhyphen"/>verſaries of his people, who hath no other
+helper in the Earth, and in him our truſt is, and not in man: And it is not becauſe we do rely
+upon the arm of fleſh, that we thus write unto thee, but to clear and diſcharge our
+Conſciences to thee in the ſight of the Lord, becauſe he requires it of us, and at our hands,
+and that, if poſſible, thou mayeſt take warning ſo as to eſcape the evil to come.</p>
+               <p>
+                  <hi>So in plainneſs, and in the fear of the Lord, and in obedience to the movings of the
+ſpirit of the Lord, I have diſcharged my Conſcience to thee at preſent, and have faithfully
+declared to thee (the Counſel of the Lord, and) in ſhort the things which muſt come to
+paſs, which is and may ſerve for a ſufficient warning to thee from the Lord; which if thou
+have regard thereunto, it may, and will be well with thee, but, if otherwiſe I am clear in my
+Conſcience, and the will of God be done.</hi>
+               </p>
+               <closer>
+                  <dateline>Writen <hi>in New-England,</hi>
+                     <date>this <hi>25th of the 3rd</hi> Month, 1662.</date>
+                  </dateline>
+                  <signed>By one who truly deſires the ſettlement and eſtabliſhment of of the <hi>Kingdom of
+Pence, truth and righteouſneſs,</hi> throughout thy <hi>Do<g ref="char:EOLhyphen"/>minions,</hi> and all other places
+of the Earth, and that all <hi>oppreſſions</hi> may ceaſe in all places, and tho
+<hi>oppreſſed be ſat free,</hi> JOSIAH COALE.</signed>
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>The</hi> Copies <hi>of thoſe</hi> two Papers <hi>were delivered to the</hi> King,
+<hi>the</hi> laſt <hi>7th</hi> Month.</p>
+               </postscript>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
